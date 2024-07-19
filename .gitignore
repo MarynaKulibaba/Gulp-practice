@@ -1,0 +1,16 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+*.iml
+out
+gen
+# Виключення папки node_modules
+node_modules
+
+
+# Виключення папки .idea
+.idea
+
+# Visual code settings
+.vscodev
